@@ -46,8 +46,11 @@ if __name__ == '__main__':
 
     process_file(file,session)
 
-    
-    
+    for state in queries:
+        rows = session.execute(state)
+
+        for row in row:
+            print(row)
 
 
 
