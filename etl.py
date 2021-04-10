@@ -52,6 +52,9 @@ if __name__ == '__main__':
         for row in row:
             print(row)
 
+    session.shutdown()
+    cluster.shutdown()
+
 
 
 
