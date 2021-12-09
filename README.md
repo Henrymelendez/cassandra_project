@@ -13,6 +13,13 @@ In this project, I applied what I've learned on data modeling with Apache Cassan
 The dataset is contain in csv file in ```/event_data```
 
 
+# Keyspace Schema Design
+
+Data Model ERD
+The keyspace design is shown in the image below. Each table is modeled to answer a specific known query. This model enables to query the database schema containing huge amounts of data. Relational databases are not suitable in this scenario due to the magnitude of data.
+
+
+
 
 
 # ETL
