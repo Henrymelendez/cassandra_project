@@ -9,7 +9,7 @@ In this project, I applied what I've learned on data modeling with Apache Cassan
 
 # Things Learned
 
-Designed a NoSQL database using Apache Cassandra based on the original schema outlined in project one. Skills include:
+Designed a NoSQL database using Apache Cassandra based on the original schema outlined in the postgresql project. Skills include:
 
 Created a nosql database using Apache Cassandra (both locally and with docker containers)
 Developed denormalized tables optimized for a specific set queries and business needs
