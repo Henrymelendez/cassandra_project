@@ -12,6 +12,8 @@ In this project, I applied what I've learned on data modeling with Apache Cassan
 
 The dataset is contain in csv file in ```/event_data```
 
+```artist, auth, firstName, gender, itemInSession, lastName, length, level, location, method, page, registration, sessionId, song, status, ts, userId```
+
 
 # Keyspace Schema Design
 
